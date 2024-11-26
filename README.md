@@ -21,6 +21,11 @@ App is running at http://localhost:3000
 
 Mail UI is http://localhost:8025/
 
+# TODO
+- move DB to AWS
+- Terraform https://vercel.com/guides/integrating-terraform-with-vercel
+
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
